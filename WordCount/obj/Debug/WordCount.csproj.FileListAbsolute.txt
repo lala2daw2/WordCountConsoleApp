@@ -1,0 +1,7 @@
+C:\Users\Vaevistic\source\repos\WordCount\WordCount\bin\Debug\WordCount.exe.config
+C:\Users\Vaevistic\source\repos\WordCount\WordCount\bin\Debug\WordCount.exe
+C:\Users\Vaevistic\source\repos\WordCount\WordCount\bin\Debug\WordCount.pdb
+C:\Users\Vaevistic\source\repos\WordCount\WordCount\obj\Debug\WordCount.csprojAssemblyReference.cache
+C:\Users\Vaevistic\source\repos\WordCount\WordCount\obj\Debug\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Vaevistic\source\repos\WordCount\WordCount\obj\Debug\WordCount.exe
+C:\Users\Vaevistic\source\repos\WordCount\WordCount\obj\Debug\WordCount.pdb
